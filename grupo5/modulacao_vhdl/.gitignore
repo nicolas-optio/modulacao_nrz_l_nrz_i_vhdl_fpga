@@ -1,0 +1,12 @@
+# Artefatos gerados pelo Vivado (permanecem em disco para abrir o projeto;
+# ignorados apenas para o repositorio git)
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+*.jou
+*.log
+.DS_Store
